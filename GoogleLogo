@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Google</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+
+		<a href="index.html">
+			<img src="GoogleLogo.PNG" id="logo">
+		</a>
+
+		<!-- Searching bar -->
+		<input type="text" placeholder="Search Google or Type URL">
+		<!-- end here -->
+
+		<a href="index.html">
+			<img src="voicesearch.png" id="voices-icon">
+		</a>
+
+		<!-- Website links start here -->
+	<div class="container">
+		<a href="#">
+			<img src="facebook.png">
+		</a>
+
+		<a href="#">
+			<img src="gmail.png">
+		</a>
+
+		<a href="#">
+			<img src="youtube.png">
+		</a>
+
+		<a href="#">
+			<img src="anime.png">
+		</a>
+
+		<a href="#">
+			<img src="facebook.png">
+		</a>
+
+		<a href="#">
+			<img src="gmail.png">
+		</a>
+
+		<a href="#">
+			<img src="youtube.png">
+		</a>
+
+		<a href="#">
+			<img src="anime.png">
+		</a>
+	</div>
+	<body>
+</html>
