@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+a {
+	display: block;
+}
+
+a #logo {
+	width: 350px;
+	height: 110px;
+	position: relative;
+	left: 500px;
+	top: 120px;
+}
+
+input {
+	width: 720px;
+	height: 30px;
+	font-family: verdana;
+	font-size: 20px;
+}
+input {
+	position: relative;
+	left: 320px;
+	top: 140px;
+}
+.container {
+	width: 720px;
+	height: 720px;
+	position: relative;
+	left: 330px;
+	top: 150px;
+}
+.container a {
+	display: inline-block;
+	margin-right: 15px;
+}
+#voices-icon {
+	position: relative;
+	left: 1014px;
+	top:110px;
+}
